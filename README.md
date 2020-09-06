@@ -1,2 +1,0 @@
-# produccion
-repositorio de prueba 
